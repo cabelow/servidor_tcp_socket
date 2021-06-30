@@ -1,0 +1,25 @@
+{
+  "name": "servidor_tcp_socket",
+  "version": "1.0.0",
+  "description": "criando um servidor tcp e um socket js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabelow/servidor_tcp_socket.git"
+  },
+  "keywords": [
+    "servidor",
+    "tcp",
+    "socket"
+  ],
+  "author": "Rafael Mello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabelow/servidor_tcp_socket/issues"
+  },
+  "homepage": "https://github.com/cabelow/servidor_tcp_socket#readme"
+}
